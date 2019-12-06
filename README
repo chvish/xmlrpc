@@ -1,7 +1,7 @@
 XML-RPC client and server for Erlang
 ====================================
 
-NOTE: this is a fork of https://github.com/etnt/xmlrpc, with the sole focus or providing rebar3 support
+NOTE: this is a fork of https://github.com/etnt/xmlrpc, with the sole focus of providing rebar3 support
 
 The original author of this library was Joakim Grebenö. It is
 currently maintained by Torbjörn Törnkvist. Send questions and/or
